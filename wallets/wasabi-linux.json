@@ -1,0 +1,12 @@
+{
+    "wallet": "Wasabi",
+    "versions":[
+    {
+        "version_number": "1.1.12",
+        "sources": ["https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12/Wasabi-1.1.12.deb"],
+        "sha256": "xxxxxxxxxxxxx",
+        "signed_by": "6FB3872B5D42292F59920797856348328949861E",
+        "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12/Wasabi-1.1.12.deb.asc"
+    }
+    ]
+}

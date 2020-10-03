@@ -1,0 +1,13 @@
+{
+    "wallet": "Armory",
+    "versions":[
+    {
+        "version_number": "0.96.0",
+        "sources": ["https://github.com/goatpig/BitcoinArmory/releases/download/v0.96/armory_0.96-gcc5.3_amd64.deb"],
+        "arch": "x86_64",
+        "sha256": "987d1a262cb92a9bb70ce85ec75b15a4ef20f90c9ac322c00e7908fe086f2bf2",
+        "signed_by": "821F122936BDD565366AC36A4AB16AEA98832223",
+        "signature_url": "https://github.com/goatpig/BitcoinArmory/releases/download/v0.96/sha256sum.txt.asc"
+    }
+    ]
+}
