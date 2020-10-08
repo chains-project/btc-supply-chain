@@ -1,9 +1,15 @@
 # btc-supply-chain
 
-`btc-supply-chain` is a database of the Bitcoin software supply chain. The goal of this database is to help the world use Bitcoin safely. It contains key information trustable bitcoin software components:
+`btc-supply-chain` is a database documenting the Bitcoin software supply chain. The goal of this database is to help the world use Bitcoin safely. It contains key information trustable bitcoin software components:
 
 * SHA256 of libraries and applications (incl. wallets)
-* GPG signatures and developer keys
+* GPG developer keys and signatures
+
+This information is valuable:
+
+- for Bitcoin users, because they have a external source of information to verify a hash. In particular, where the hash only exists in a single place so far (the wallet/node website), the btc-supply-chain hash provides a second anchor on the Internet
+- for Bitcoin developers of wallet/nodes, in order to submit their hash to a third party database
+- for Bitcoin developers of wallet/nodes, in order to verify that their dependencies are known
 
 **Warning**: this is work-in-progress.
 
