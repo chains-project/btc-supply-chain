@@ -1,12 +1,12 @@
 {
     "wallet": "Bitcoin Core",
+    "release_feed": "https://github.com/bitcoin/bitcoin/releases.atom",
     "versions":[
     {
         "version_number": "0.17.2",
+        "arch" : "aarch64-linux-gnu.tar.gz",
         "sources": ["https://bitcoin.org/bin/bitcoin-core-0.17.2/bitcoin-0.17.2-aarch64-linux-gnu.tar.gz"],
-        "sha256": {
-          "aarch64-linux-gnu.tar.gz": "5a6b35d1a348a402f2d2d6ab5aed653a1a1f13bc63aaaf51605e3501b0733b7a"
-        },
+        "sha256": "5a6b35d1a348a402f2d2d6ab5aed653a1a1f13bc63aaaf51605e3501b0733b7a",
         "signed_by": "6694D8DE7BE8EE5631BED9502BD5824B7F9470E6",
         "signature_url": "https://bitcoin.org/bin/bitcoin-core-0.17.2/SHA256SUMS.asc"
     }

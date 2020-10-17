@@ -1,0 +1,6 @@
+language: python
+
+install: 
+  - mkdir target
+
+script: ./check-btc-supply-chain.py
