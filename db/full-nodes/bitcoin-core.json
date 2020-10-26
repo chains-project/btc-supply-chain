@@ -1,5 +1,5 @@
 {
-    "wallet": "Bitcoin Core",
+    "name": "Bitcoin Core",
     "release_feed": "https://github.com/bitcoin/bitcoin/releases.atom",
     "versions":[
     {
