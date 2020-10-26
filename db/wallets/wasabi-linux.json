@@ -1,5 +1,5 @@
 {
-    "wallet": "Wasabi",
+    "name": "Wasabi",
     "comment": "Wasabi does not publish a SHA256 on https://github.com/zkSNACKs/WalletWasabi/releases/",
     "versions":[
     {
