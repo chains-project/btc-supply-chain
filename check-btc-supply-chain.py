@@ -22,7 +22,7 @@ for i in json_files:
     versions = wallet["versions"]
     
     # for Bitcoin Core, we only check the last ones in in CI, otherwise it takes too much time
-    if wallet['name'] and len(versions)>4 == "Bitcoin Core": versions = versions[-4]
+    if wallet['name'] == "Bitcoin Core" and len(versions)>4 : versions = versions[-4]
     
     for v in versions:
         for source in v['sources']:
