@@ -10,7 +10,7 @@ import json
 import requests
 import hashlib
 import os
-from urlparse import urlparse
+from urllib.parse import urlparse
 from packaging import version
 
 json_files = []
