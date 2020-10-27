@@ -32,6 +32,7 @@ The wallet supply chain information is in folder `wallets`.
 To verify that you use a safe wallet program:
 
 1. Compute the SHA256 sum of the wallet binary or installation file you've just downloaded
+    * Do it in the browser at <https://sprin.github.io/TrustyHash/>
     * For advanced users, see https://help.ubuntu.com/community/HowToSHA256SUM
 2. Check that is known by Google, eg <https://encrypted.google.com?q=6b98b367acdee51961118f57d0ba40e57f369d031a43c673ad76cda97cf61db1>. If there is 0 results on Google **STOP AND DELETE THE FILE**, it can be a malware trying to steal your bitcoin.
 3. If Google knows it, check the reliability of the websites where this SHA256 appears
