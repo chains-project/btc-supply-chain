@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#!/usr/bin/python
 """
 Checks all known sha256 checksums in the bitcoin software supply chain.
 
