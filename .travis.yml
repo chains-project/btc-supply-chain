@@ -1,6 +1,7 @@
 language: python
 
 install: 
+  - pip3 install -r requirements.txt
   - mkdir target
 
-script: ./check-btc-supply-chain.py
+script: python check-btc-supply-chain.py
