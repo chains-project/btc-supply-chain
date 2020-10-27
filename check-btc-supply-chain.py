@@ -11,6 +11,7 @@ import requests
 import hashlib
 import os
 from urllib.parse import urlparse
+from packaging import version
 
 json_files = []
 json_files += glob.glob("db/wallets/*")
@@ -20,11 +21,13 @@ json_files += glob.glob("db/full-nodes/*")
 for i in json_files:
     wallet = json.load(open(i))
     versions = wallet["versions"]
-    
-    # for Bitcoin Core, we only check the last ones in in CI, otherwise it takes too much time
-    if wallet['name'] == "Bitcoin Core" and len(versions)>4 : versions = versions[-4:]
+   
+    last_version = sorted([v['version_number'] for v in versions], key=lambda x: version.parse(x))[-1]
     
     for v in versions:
+        # we only CI the last added version
+        if v['version_number'] != last_version: continue
+      
         for source in v['sources']:
           a = urlparse(source)
           fname = os.path.basename(a.path)
