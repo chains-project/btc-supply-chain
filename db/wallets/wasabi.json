@@ -1,0 +1,14 @@
+{
+    "name": "Wasabi",
+    "comment": "Wasabi does not publish a SHA256 on https://github.com/zkSNACKs/WalletWasabi/releases/",
+    "versions":[
+    {
+        "version_number": "1.1.12",
+        "arch": "x86_64-linux-gnu, deb",
+        "sources": ["https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12/Wasabi-1.1.12.deb"],
+        "sha256": "62b096b60d9fadd7a62cc26544e024864cdbcddc23ec8292e28e29e62f5c8fbb",
+        "signed_by": "6FB3872B5D42292F59920797856348328949861E",
+        "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12/Wasabi-1.1.12.deb.asc"
+    }
+    ]
+}
