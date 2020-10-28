@@ -34,7 +34,8 @@
             "sources": [
                 "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.deb"
             ],
-            "sha256": "df2c619a921142ec93ee0b224a59ccfe0c06f46131942a2add07870b99aa430d"
+            "sha256": "df2c619a921142ec93ee0b224a59ccfe0c06f46131942a2add07870b99aa430d",
+            "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.deb.asc"
         },
         {
             "version_number": "1.1.12.2",
@@ -42,7 +43,8 @@
             "sources": [
                 "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.dmg"
             ],
-            "sha256": "8e69d483b1dd5a864c19a84efe5fde8589b9375e6f5c8fc7c47b0b23e34a51e6"
+            "sha256": "8e69d483b1dd5a864c19a84efe5fde8589b9375e6f5c8fc7c47b0b23e34a51e6",
+            "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.dmg.asc"
         },
         {
             "version_number": "1.1.12.2",
@@ -50,7 +52,8 @@
             "sources": [
                 "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.msi"
             ],
-            "sha256": "121115ca087b95b5431d5d9c162bfc1a47f6d497e0ac622a121056c3a50c99a5"
+            "sha256": "121115ca087b95b5431d5d9c162bfc1a47f6d497e0ac622a121056c3a50c99a5",
+            "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.msi.asc"
         }
     ]
 }
