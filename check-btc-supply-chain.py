@@ -14,8 +14,8 @@ from urllib.parse import urlparse
 from packaging import version
 
 json_files = []
-json_files += glob.glob("db/wallets/*")
-json_files += glob.glob("db/full-nodes/*")
+json_files += glob.glob("db/wallets/*.json")
+json_files += glob.glob("db/full-nodes/*.json")
 
 
 for i in json_files:
