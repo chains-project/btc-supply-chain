@@ -54,6 +54,15 @@
             ],
             "sha256": "121115ca087b95b5431d5d9c162bfc1a47f6d497e0ac622a121056c3a50c99a5",
             "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.msi.asc"
+        },
+        {
+            "version_number": "1.1.12.2",
+            "arch": "standalone (linux+windows)",
+            "sources": [
+                "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.tar.gz"
+            ],
+            "sha256": "595ccad44004b3dbc8d80d1305226758ea7d03ea941ad5f3f76f786d89b0875a",
+            "signature_url": "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.1.12.2/Wasabi-1.1.12.2.tar.gz.asc"
         }
     ]
 }
