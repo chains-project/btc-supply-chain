@@ -74,6 +74,46 @@
         "https://download.electrum.org/4.0.6/electrum-4.0.6.exe"
       ],
       "sha256": "42358d90229e71def6c35c71d6614a76652a6c41b2c7ca91170007fff27c1051"
+    },
+    {
+      "version_number": "4.0.7",
+      "arch": "portable.exe",
+      "sources": [
+        "https://download.electrum.org/4.0.7/electrum-4.0.7-portable.exe"
+      ],
+      "sha256": "66ef80af8edba6fd01899bf4e385f9c49961f6675ffd47fea92cde5e386ba5b1"
+    },
+    {
+      "version_number": "4.0.7",
+      "arch": "setup.exe",
+      "sources": [
+        "https://download.electrum.org/4.0.7/electrum-4.0.7-setup.exe"
+      ],
+      "sha256": "37dd84a40d26720791a4adbc344bbda71e9162491cfd4a1a845f47e033134dcc"
+    },
+    {
+      "version_number": "4.0.7",
+      "arch": "x86_64.AppImage",
+      "sources": [
+        "https://download.electrum.org/4.0.7/electrum-4.0.7-x86_64.AppImage"
+      ],
+      "sha256": "52ffdc6b9b7618be1fdfd08f624c894a6e6d9f9fe67423b2b798aaf9d1b5dbf6"
+    },
+    {
+      "version_number": "4.0.7",
+      "arch": "dmg",
+      "sources": [
+        "https://download.electrum.org/4.0.7/electrum-4.0.7.dmg"
+      ],
+      "sha256": "01d5a7117de45e67dbfd1dcea686c24ade793387318ef8da91a7dc8fabdb37ad"
+    },
+    {
+      "version_number": "4.0.7",
+      "arch": "exe",
+      "sources": [
+        "https://download.electrum.org/4.0.7/electrum-4.0.7.exe"
+      ],
+      "sha256": "663d8691c82762415b328c11da703e90cba4578dc5d1855e95230ce365d7dcec"
     }
   ]
 }
