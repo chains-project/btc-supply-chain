@@ -251,6 +251,22 @@
         "https://bitcoin.org/bin/bitcoin-core-0.20.1/bitcoin-0.20.1.tar.gz"
       ],
       "sha256": "4bbd62fd6acfa5e9864ebf37a24a04bc2dcfe3e3222f056056288d854c53b978"
+    },
+    {
+      "version_number": "0.21.0",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoin.org/bin/bitcoin-core-0.21.0/bitcoin-0.21.0-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "43416854330914992bbba2d0e9adf2a6fff4130be9af8ae2ef1186e743d9a3fe"
+    },
+    {
+      "version_number": "0.21.0",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoin.org/bin/bitcoin-core-0.21.0/bitcoin-0.21.0-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "da7766775e3f9c98d7a9145429f2be8297c2672fe5b118fd3dc2411fb48e0032"
     }
   ]
 }
