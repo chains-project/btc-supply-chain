@@ -9,11 +9,11 @@ A public page to let Google index the SHA256 of Bitcoin-related software on a va
 
 ## Electrum
 
-* Version(portable.exe) 4.0.9: 24264a29c98fccf32c60e160dfbf139b51db79f4127ba88707cf1e63376eed61
-* Version(setup.exe) 4.0.9: ed7cb0ec80325cdabe20cf4f3877155e7bec3adea97bcb4f526ac1fa65c9ed32
-* Version(x86_64.AppImage) 4.0.9: f9e57b14c1f509b27fbcf570e2a9002d947729d65e587473b8b2ae7a9123deb2
-* Version(dmg) 4.0.9: 29dade623319f883f8abc2476c9df44a77a4bc932c1a64bcd6fdec8dd499eb0b
-* Version(exe) 4.0.9: 906b9dd77d2d9c4527058149a92925ead0ebac83f2e2fe9fd4558ee1159ceec7
+* Version(portable.exe) 4.1.4: cc58ecbf19472b97fc8c23883e86f6b8c32dd4380a4198f750a2d90e5a88bcfe
+* Version(setup.exe) 4.1.4: 2871d063f9d1317446df92ad5333d36b9163d6f1388b7c0743f29339223f1f0e
+* Version(x86_64.AppImage) 4.1.4: 6f887bc4517c6ac53bbbbca39c41212242aa129f39470fea4ece686ca6bd2d7b
+* Version(dmg) 4.1.4: 2b9d06a881bc76cc521c60e8bb5ec25cd522b222b1afdbc57849f51ff682999e
+* Version(exe) 4.1.4: f025daaf88fc619f3c40eb50720a7bb606625f0b458c96328efb8b61fc404332
 
 ## BTCD
 
