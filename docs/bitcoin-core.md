@@ -1,11 +1,13 @@
 # Bitcoin Core SHA256
 
-* aarch64-linux-gnu 0.21.1: [28264751c982d30b9330e6c1475ddb9ed28be6a2601e8a5f33b6ba49a3d9f5f2](https://bitcoin.org/bin/bitcoin-core-0.21.1/bitcoin-0.21.1-aarch64-linux-gnu.tar.gz)
-* x86_64-linux-gnu 0.21.1: [366eb44a7a0aa5bd342deea215ec19a184a11f2ca22220304ebb20b9c8917e2b](https://bitcoin.org/bin/bitcoin-core-0.21.1/bitcoin-0.21.1-x86_64-linux-gnu.tar.gz)
-* aarch64-linux-gnu/bitcoind_binary 0.21.1: 8f04f6f932601671fd54acaa36fc22616176038e0b1901e5a8603316a512bc6f
-* x86_64-linux-gnu/bitcoind_binary 0.21.1: fd71afd2b156bb18b5982ac834ea2e2d55a43fb40eff60e6c9150de3afd1d76a
+* aarch64-linux-gnu 22.0: [ac718fed08570a81b3587587872ad85a25173afa5f9fbbd0c03ba4d1714cfa3e](https://bitcoin.org/bin/bitcoin-core-22.0/bitcoin-22.0-aarch64-linux-gnu.tar.gz)
+* x86_64-linux-gnu 22.0: [59ebd25dd82a51638b7a6bb914586201e67db67b919b2a1ff08925a7936d1b16](https://bitcoin.org/bin/bitcoin-core-22.0/bitcoin-22.0-x86_64-linux-gnu.tar.gz)
+* x86_64-linux-gnu/bitcoind_binary 0.21.1 (outdated): <s>fd71afd2b156bb18b5982ac834ea2e2d55a43fb40eff60e6c9150de3afd1d76a</s>
+* aarch64-linux-gnu/bitcoind_binary 0.21.1 (outdated): <s>8f04f6f932601671fd54acaa36fc22616176038e0b1901e5a8603316a512bc6f</s>
 * x86_64-linux-gnu/bitcoind_binary 0.21.0 (outdated): <s>7955542df199c6ce4ca0bb3966dcf9cc71199c592fec38508dad58301a3298d0</s>
 * aarch64-linux-gnu/bitcoind_binary 0.21.0 (outdated): <s>a488471abec95997b10b1164e859a033c0993829c743eb5c094b75a53c093432</s>
+* x86_64-linux-gnu 0.21.1 (outdated): [<s>366eb44a7a0aa5bd342deea215ec19a184a11f2ca22220304ebb20b9c8917e2b</s>](https://bitcoin.org/bin/bitcoin-core-0.21.1/bitcoin-0.21.1-x86_64-linux-gnu.tar.gz)
+* aarch64-linux-gnu 0.21.1 (outdated): [<s>28264751c982d30b9330e6c1475ddb9ed28be6a2601e8a5f33b6ba49a3d9f5f2</s>](https://bitcoin.org/bin/bitcoin-core-0.21.1/bitcoin-0.21.1-aarch64-linux-gnu.tar.gz)
 * x86_64-linux-gnu 0.21.0 (outdated): [<s>da7766775e3f9c98d7a9145429f2be8297c2672fe5b118fd3dc2411fb48e0032</s>](https://bitcoin.org/bin/bitcoin-core-0.21.0/bitcoin-0.21.0-x86_64-linux-gnu.tar.gz)
 * aarch64-linux-gnu 0.21.0 (outdated): [<s>43416854330914992bbba2d0e9adf2a6fff4130be9af8ae2ef1186e743d9a3fe</s>](https://bitcoin.org/bin/bitcoin-core-0.21.0/bitcoin-0.21.0-aarch64-linux-gnu.tar.gz)
 * source 0.20.1 (outdated): [<s>4bbd62fd6acfa5e9864ebf37a24a04bc2dcfe3e3222f056056288d854c53b978</s>](https://bitcoin.org/bin/bitcoin-core-0.20.1/bitcoin-0.20.1.tar.gz)
