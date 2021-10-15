@@ -57,6 +57,10 @@ There is excellent tool support for verifying a supply chain:
 * [Guix](https://guix.gnu.org/):  Guix is a package manager with secure and deterministic packaging. [See the Bitcoin-core pipeline](https://github.com/bitcoin/bitcoin/blob/master/contrib/guix/README.md)
 * [Gitian](https://gitian.org/): Gitian enables one to set up secure and deterministic build process. See the [Gitian process of bitcoin-core](https://github.com/bitcoin-core/docs/blob/master/gitian-building.md)
 
+## Checking btc-supply-chain
+
+To verify that the data contained in this repo is consistent, see script `check-btc-supply-chain.py`.
+
 ## Meta-trust
 
 Wait! Maybe this website has been compromised? That's entirely correct! You should make your own research about this website as well. Mitigation:
@@ -66,17 +70,6 @@ Wait! Maybe this website has been compromised? That's entirely correct! You shou
 * Public keys of repositories and package managers
 
 
-## Continuous Integration
-
-At each commit, we verify that the data contained here is consistent, see script `check-btc-supply-chain.py`.
-
-## Roadmap
-
-* add GPG developer keys and signatures
-* for dependencies:
-  * add checksums and signatures of source packages
-  * add checksums and signatures of binary packages
-* check GPG signatures in CI
 
 ## License
 
