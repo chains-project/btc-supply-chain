@@ -2,6 +2,8 @@
 
 * aarch64-linux-gnu 22.0: [ac718fed08570a81b3587587872ad85a25173afa5f9fbbd0c03ba4d1714cfa3e](https://bitcoin.org/bin/bitcoin-core-22.0/bitcoin-22.0-aarch64-linux-gnu.tar.gz)
 * x86_64-linux-gnu 22.0: [59ebd25dd82a51638b7a6bb914586201e67db67b919b2a1ff08925a7936d1b16](https://bitcoin.org/bin/bitcoin-core-22.0/bitcoin-22.0-x86_64-linux-gnu.tar.gz)
+* aarch64-linux-gnu/bitcoind_binary 22.0: b97abfda159ed8ff913d7450ae3cb9a7d9be6808f0a86afa1885891dc4cadd2e
+* x86_64-linux-gnu/bitcoind_binary 22.0: 4aebceb3caf83f27bd3dd9030da637bacc836912a65a896860dc0252d0ebfad9
 * x86_64-linux-gnu/bitcoind_binary 0.21.1 (outdated): <s>fd71afd2b156bb18b5982ac834ea2e2d55a43fb40eff60e6c9150de3afd1d76a</s>
 * aarch64-linux-gnu/bitcoind_binary 0.21.1 (outdated): <s>8f04f6f932601671fd54acaa36fc22616176038e0b1901e5a8603316a512bc6f</s>
 * x86_64-linux-gnu/bitcoind_binary 0.21.0 (outdated): <s>7955542df199c6ce4ca0bb3966dcf9cc71199c592fec38508dad58301a3298d0</s>
