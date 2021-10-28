@@ -16,7 +16,7 @@ If you need professional support about the Bitcoin software supply chain, please
 
 ## Web page
 
-<https://monperrus.github.io/btc-supply-chain/> contains the SHA256 of the latest version. It is meant to be indexed by the major search engines, starting with Google.
+<https://github.com/monperrus/btc-supply-chain/wiki> contains the SHA256 of the latest version. It is meant to be indexed by the major search engines, starting with Google.
 
 <https://bitcoinissafe.com/> is a great related project, with a focus on antivirus software adoption of Bitcoin tools.
 
