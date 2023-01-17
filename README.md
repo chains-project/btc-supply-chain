@@ -1,4 +1,4 @@
-# btc-supply-chain: the Bitcoin software supply chain database (WIP)
+# btc-supply-chain: the Bitcoin software supply chain database
 
 `btc-supply-chain` is a database about the Bitcoin software supply chain. The goal of this database is to help the world use Bitcoin safely. It contains the key information required to trust bitcoin software components, starting with SHA256 of code for wallets, nodes and bitcoin libraries. This database is valuable:
 
