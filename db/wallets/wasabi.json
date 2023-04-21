@@ -1427,6 +1427,134 @@
         "https://github.com/zkSNACKs/WalletWasabi/releases/download/v1.98.4/Wasabi-1.98.4.tar.gz"
       ],
       "sha256": "8618857d52c8809f73eccaa2004c303221954361451da42a7ea8140f48931cd2"
+    },
+    {
+      "version_number": "2.0.3",
+      "arch": "deb",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.3/Wasabi-2.0.3.deb"
+      ],
+      "sha256": "e8f24ee9c9aa9bd49b4f11759c788e11de39d1ec4e326df13bf548dd20848bb1"
+    },
+    {
+      "version_number": "2.0.3",
+      "arch": "dmg",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.3/Wasabi-2.0.3.dmg"
+      ],
+      "sha256": "f76fd447542cb3d96210476c6ee7290d831e705010009258567c7dd1d50e2867"
+    },
+    {
+      "version_number": "2.0.3",
+      "arch": "msi",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.3/Wasabi-2.0.3.msi"
+      ],
+      "sha256": "b8367e0912fc54fc5073cad2a8835bc0cd844df6564b4aa8d97670591abd868a"
+    },
+    {
+      "version_number": "2.0.3",
+      "arch": "tar.gz",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.3/Wasabi-2.0.3.tar.gz"
+      ],
+      "sha256": "9d2a86eb0fdb434aa31d267a83a6aefe754d3ad44da3b52733e0bb24d854e425"
+    },
+    {
+      "version_number": "2.0.2.2",
+      "arch": "deb",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.2/Wasabi-2.0.2.2.deb"
+      ],
+      "sha256": "08c7aeccb0b5503458e4f54d0228d2fe24d894a3c4cb2843ee5c1159b1a3e385"
+    },
+    {
+      "version_number": "2.0.2.2",
+      "arch": "dmg",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.2/Wasabi-2.0.2.2.dmg"
+      ],
+      "sha256": "ea80e9c4d633a76a75fc417196c3b5c74449bbb2f674e933f3f4f81430145df9"
+    },
+    {
+      "version_number": "2.0.2.2",
+      "arch": "msi",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.2/Wasabi-2.0.2.2.msi"
+      ],
+      "sha256": "0a3133865eed0b81dbbf93405e568df3c24ac435debd84beead7e0ddc63aa56e"
+    },
+    {
+      "version_number": "2.0.2.2",
+      "arch": "tar.gz",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.2/Wasabi-2.0.2.2.tar.gz"
+      ],
+      "sha256": "330af64f026c03bf86e54d851ce0ba48c822631bb2e9f022037b7ba0919255a0"
+    },
+    {
+      "version_number": "2.0.2.1",
+      "arch": "deb",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.1/Wasabi-2.0.2.1.deb"
+      ],
+      "sha256": "9491eac1e11cd56d08109dbca12b7fa8620712aea78c012db1809b4ecc5f1266"
+    },
+    {
+      "version_number": "2.0.2.1",
+      "arch": "dmg",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.1/Wasabi-2.0.2.1.dmg"
+      ],
+      "sha256": "c826a1f734565efb1263d281da521acf7d8a0dd4237c9760cc1e66a9d3fa85ac"
+    },
+    {
+      "version_number": "2.0.2.1",
+      "arch": "msi",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.1/Wasabi-2.0.2.1.msi"
+      ],
+      "sha256": "b80a42256a697a9dafba84c06f95804b948632e402e48398b5c8c4b88c4a7de5"
+    },
+    {
+      "version_number": "2.0.2.1",
+      "arch": "tar.gz",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2.1/Wasabi-2.0.2.1.tar.gz"
+      ],
+      "sha256": "92f53059165999a94940beb9b5135d81383b6501e19886df9ac7c76c7058cfbc"
+    },
+    {
+      "version_number": "2.0.2",
+      "arch": "deb",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.deb"
+      ],
+      "sha256": "4447fd834cf3d6592432a92ca42092654edc7f726366d62d43c3a8fe839bbe70"
+    },
+    {
+      "version_number": "2.0.2",
+      "arch": "dmg",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.dmg"
+      ],
+      "sha256": "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca"
+    },
+    {
+      "version_number": "2.0.2",
+      "arch": "msi",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.msi"
+      ],
+      "sha256": "0ac2a3d1e6d56a85ef85ba17a9cb4dcc13519fcdaa7a7f6074073dd131894425"
+    },
+    {
+      "version_number": "2.0.2",
+      "arch": "tar.gz",
+      "sources": [
+        "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.tar.gz"
+      ],
+      "sha256": "d03165f9417141c911336a9716a0e929a450e6c20c51b363ee5df328f2803a74"
     }
   ]
 }

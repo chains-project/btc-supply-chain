@@ -874,6 +874,126 @@
         "https://download.electrum.org/4.3.2/electrum-4.3.2.exe"
       ],
       "sha256": "4b65f322822c405442e5653b31ba7c73c2cf5a273f92af64dc85e9c28e806b38"
+    },
+    {
+      "version_number": "4.3.3",
+      "arch": "portable.exe",
+      "sources": [
+        "https://download.electrum.org/4.3.3/electrum-4.3.3-portable.exe"
+      ],
+      "sha256": "b56d08726bc1c7935f6dc802ab5332e24d7ac2a53c2d311da422abf5b7bdf64f"
+    },
+    {
+      "version_number": "4.3.3",
+      "arch": "setup.exe",
+      "sources": [
+        "https://download.electrum.org/4.3.3/electrum-4.3.3-setup.exe"
+      ],
+      "sha256": "e87aa8f71107af71a7176a1c13a706e0883b8df3cc0e4a9a569a7def04156f71"
+    },
+    {
+      "version_number": "4.3.3",
+      "arch": "x86_64.AppImage",
+      "sources": [
+        "https://download.electrum.org/4.3.3/electrum-4.3.3-x86_64.AppImage"
+      ],
+      "sha256": "20e3b331883639ea1659365ee3028ec6ce36ffd1d1f78dcebe8530fa8521826b"
+    },
+    {
+      "version_number": "4.3.3",
+      "arch": "dmg",
+      "sources": [
+        "https://download.electrum.org/4.3.3/electrum-4.3.3.dmg"
+      ],
+      "sha256": "655cdd8a6128b7b6a159d4d32941d2590fdcd93d4aabda3ce953b8b1746541e6"
+    },
+    {
+      "version_number": "4.3.3",
+      "arch": "exe",
+      "sources": [
+        "https://download.electrum.org/4.3.3/electrum-4.3.3.exe"
+      ],
+      "sha256": "0902f0a8c5450e9dce19c674445bbd6ded8b1693cbde23d9bd3064d9e982c56d"
+    },
+    {
+      "version_number": "4.3.4",
+      "arch": "portable.exe",
+      "sources": [
+        "https://download.electrum.org/4.3.4/electrum-4.3.4-portable.exe"
+      ],
+      "sha256": "1a2c6fda122516090a4c19835550a89e3272b18c27b7be7cd0940ed9d0b8d537"
+    },
+    {
+      "version_number": "4.3.4",
+      "arch": "setup.exe",
+      "sources": [
+        "https://download.electrum.org/4.3.4/electrum-4.3.4-setup.exe"
+      ],
+      "sha256": "87cf45deb098221698fe43a459eaba1587d87e9d45a170b0363ae15ac698409e"
+    },
+    {
+      "version_number": "4.3.4",
+      "arch": "x86_64.AppImage",
+      "sources": [
+        "https://download.electrum.org/4.3.4/electrum-4.3.4-x86_64.AppImage"
+      ],
+      "sha256": "ed2ea6762a353440e3e522caa33038e9afa04b91278ce3fe51a558310a7c0861"
+    },
+    {
+      "version_number": "4.3.4",
+      "arch": "dmg",
+      "sources": [
+        "https://download.electrum.org/4.3.4/electrum-4.3.4.dmg"
+      ],
+      "sha256": "0a90468c4f75354b7649f032e1a1257822154c0140e1b8ce638b35dc65ba652b"
+    },
+    {
+      "version_number": "4.3.4",
+      "arch": "exe",
+      "sources": [
+        "https://download.electrum.org/4.3.4/electrum-4.3.4.exe"
+      ],
+      "sha256": "5fb0a3e576b753641331dbfec80c781c7d338b85e5e0d250c3c66f1b41c5b30d"
+    },
+    {
+      "version_number": "4.4.0",
+      "arch": "portable.exe",
+      "sources": [
+        "https://download.electrum.org/4.4.0/electrum-4.4.0-portable.exe"
+      ],
+      "sha256": "881482a34eb19eba8a3719705616ca5e90304fd9ebe5f1bb9c03738055a93795"
+    },
+    {
+      "version_number": "4.4.0",
+      "arch": "setup.exe",
+      "sources": [
+        "https://download.electrum.org/4.4.0/electrum-4.4.0-setup.exe"
+      ],
+      "sha256": "4adf0db6b5f34004f1a0bb342cec5f411b7bc4ff967e1138dda80536c4cc5d61"
+    },
+    {
+      "version_number": "4.4.0",
+      "arch": "x86_64.AppImage",
+      "sources": [
+        "https://download.electrum.org/4.4.0/electrum-4.4.0-x86_64.AppImage"
+      ],
+      "sha256": "d2e2b62a29ad894ee8433daf5289ac041bccc3db886e9c3e8f332f8371f8537c"
+    },
+    {
+      "version_number": "4.4.0",
+      "arch": "dmg",
+      "sources": [
+        "https://download.electrum.org/4.4.0/electrum-4.4.0.dmg"
+      ],
+      "sha256": "b4c57b4f034e5211276f1647a78fcbe5a1171c24908560f423ba1d0077c3be20"
+    },
+    {
+      "version_number": "4.4.0",
+      "arch": "exe",
+      "sources": [
+        "https://download.electrum.org/4.4.0/electrum-4.4.0.exe"
+      ],
+      "sha256": "1a2d5289f8231eee81840f7e4249b48bcde24999689514aea24b6e2d0a1ad041"
     }
   ]
 }

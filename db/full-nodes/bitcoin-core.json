@@ -363,6 +363,118 @@
       "arch": "x86_64-linux-gnu/bitcoind_binary",
       "sources": [],
       "sha256": "526740677b190879821785d4d16155533a48d838d46f237d9b3e49ce9c43f5f3"
+    },
+    {
+      "version_number": "22.1",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-22.1/bitcoin-22.1-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "a0dcdd1eb422ba8d0f409ebe909a40f5349b405e31231312f15b12fd2e9b6153"
+    },
+    {
+      "version_number": "22.1",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "db2bf3d820aa5fcb3f87343e636fab03d5983649473d1ac4d7442abfb832a83e"
+    },
+    {
+      "version_number": "22.1",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-22.1/bitcoin-22.1-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "107e6a8d1f545de1299cbf93dfd7d41c9d67956f1ac9c910d7eaed1e363cfa2c"
+    },
+    {
+      "version_number": "22.1",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "04b5027521d47556cffa508f45a5d5e2efe0ee0c55ba02fb8d70204918475a21"
+    },
+    {
+      "version_number": "23.1",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-23.1/bitcoin-23.1-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "b18ec21db91c59850f837528b00844052fc1f92bd90ad34ddf5eaefe40ec94e3"
+    },
+    {
+      "version_number": "23.1",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "5e6ecc6bf0edccaae02bb3b1a8d8c72e6db17a0d57afc21fb4eaa32a265ded16"
+    },
+    {
+      "version_number": "23.1",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-23.1/bitcoin-23.1-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "51d0de64afe5c16c7248aeefb2ddb96a092befa5d314ceabeb15d1db3aa1605c"
+    },
+    {
+      "version_number": "23.1",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "cfee8b2ab20f12e5138764b5b3ba845705fdcb4c4b124fb69af255699d8f4338"
+    },
+    {
+      "version_number": "24.0",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.0/bitcoin-24.0-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "904e103f08f776d03935118568411724f9e070e0e888e52c9e5692308fa47d49"
+    },
+    {
+      "version_number": "24.0",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "c31ac9e548279cdd814300b2950b8462b7cd159b3ba1c81519434b6385a7431e"
+    },
+    {
+      "version_number": "24.0",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.0/bitcoin-24.0-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "fb86cf6af7a10bc5f3ae6cd6a5b0348854e1462102fe71e755d30b51b6e317d1"
+    },
+    {
+      "version_number": "24.0",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "7f3367d95070b2e9fbb387d22180e3e6d882ee47b2320a10adfb0bfc59c5c644"
+    },
+    {
+      "version_number": "24.0.1",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.0.1/bitcoin-24.0.1-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "0b48b9e69b30037b41a1e6b78fb7cbcc48c7ad627908c99686e81f3802454609"
+    },
+    {
+      "version_number": "24.0.1",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "5a63f7cfa64e7d21005b4fb3956a9192442a4565bd7c03824f5559b9b8499552"
+    },
+    {
+      "version_number": "24.0.1",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.0.1/bitcoin-24.0.1-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "49df6e444515d457ea0b885d66f521f2a26ca92ccf73d5296082e633544253bf"
+    },
+    {
+      "version_number": "24.0.1",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "d31f48b0a06ff754bdc691b88a091bfac88af24a2d75ebf65383ab52b49155ba"
     }
   ]
 }
