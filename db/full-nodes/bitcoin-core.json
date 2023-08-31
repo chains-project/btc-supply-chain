@@ -475,6 +475,90 @@
       "arch": "x86_64-linux-gnu/bitcoind_binary",
       "sources": [],
       "sha256": "d31f48b0a06ff754bdc691b88a091bfac88af24a2d75ebf65383ab52b49155ba"
+    },
+    {
+      "version_number": "23.2",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-23.2/bitcoin-23.2-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "160ce6ce7185faa0db242953b5f93b108835d3790d3ea9ac689f21a85250be35"
+    },
+    {
+      "version_number": "23.2",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "9481e89f08e761e98a51f6a2b4a9be447a72844871ca4f73a5ec189a7d634f9e"
+    },
+    {
+      "version_number": "23.2",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-23.2/bitcoin-23.2-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "853b9b0a50800a5b355df7a39dbdd6d7a2339f765e2d31a36d14bd705e7dbce1"
+    },
+    {
+      "version_number": "23.2",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "b138cab532cfd9cf5518a261a073d916d283bed08a145a5f10bdb0b7ed1a1713"
+    },
+    {
+      "version_number": "24.1",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.1/bitcoin-24.1-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "69ef67b290ce05120d8a5a5a5c0aa3e7d4878838286e6dc96935d15fc0d44b56"
+    },
+    {
+      "version_number": "24.1",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "08cbf8c34a8d0d1198ec89d1b4358187f625ac62b1494705f404f771a7d4366c"
+    },
+    {
+      "version_number": "24.1",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-24.1/bitcoin-24.1-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "c112af3d19cca7f5b5f942708ca4d522110d8e1dc1c0f8d3077f531c94e5f00f"
+    },
+    {
+      "version_number": "24.1",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "b7486e8e22d82aac66a4b2d60bc1da132e1a8381eb1e5e3bd9ece512f0e43831"
+    },
+    {
+      "version_number": "25.0",
+      "arch": "aarch64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-25.0/bitcoin-25.0-aarch64-linux-gnu.tar.gz"
+      ],
+      "sha256": "3a7bdd959a0b426624f63f394f25e5b7769a5a2f96f8126dcc2ea53f3fa5212b"
+    },
+    {
+      "version_number": "25.0",
+      "arch": "aarch64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "cedfa65ea54d619b95bdde94049358e313d0dae84b17a1aff7be2d50ccd96e86"
+    },
+    {
+      "version_number": "25.0",
+      "arch": "x86_64-linux-gnu",
+      "sources": [
+        "https://bitcoincore.org/bin/bitcoin-core-25.0/bitcoin-25.0-x86_64-linux-gnu.tar.gz"
+      ],
+      "sha256": "33930d432593e49d58a9bff4c30078823e9af5d98594d2935862788ce8a20aec"
+    },
+    {
+      "version_number": "25.0",
+      "arch": "x86_64-linux-gnu/bitcoind_binary",
+      "sources": [],
+      "sha256": "f29f150fb07b6309876828326884bb0d9e5179ef59e51307f5bac580dfcc2785"
     }
   ]
 }
