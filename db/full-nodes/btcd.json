@@ -1845,7 +1845,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "darwin-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-darwin-amd64-v0.23.3.tar.gz"
       ],
@@ -1853,7 +1853,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "dragonfly-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-dragonfly-amd64-v0.23.3.tar.gz"
       ],
@@ -1861,7 +1861,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-386-v0.23.3.tar.gz"
       ],
@@ -1869,7 +1869,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-amd64-v0.23.3.tar.gz"
       ],
@@ -1877,7 +1877,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-arm-v0.23.3.tar.gz"
       ],
@@ -1885,7 +1885,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "i",
+      "arch": "illumos-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-illumos-amd64-v0.23.3.tar.gz"
       ],
@@ -1893,7 +1893,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-386-v0.23.3.tar.gz"
       ],
@@ -1901,7 +1901,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-amd64-v0.23.3.tar.gz"
       ],
@@ -1909,7 +1909,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-arm64-v0.23.3.tar.gz"
       ],
@@ -1917,7 +1917,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv6",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv6-v0.23.3.tar.gz"
       ],
@@ -1925,7 +1925,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv7",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv7-v0.23.3.tar.gz"
       ],
@@ -1933,7 +1933,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips-v0.23.3.tar.gz"
       ],
@@ -1941,7 +1941,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64-v0.23.3.tar.gz"
       ],
@@ -1949,7 +1949,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64le-v0.23.3.tar.gz"
       ],
@@ -1957,7 +1957,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mipsle",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mipsle-v0.23.3.tar.gz"
       ],
@@ -1965,7 +1965,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64-v0.23.3.tar.gz"
       ],
@@ -1973,7 +1973,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64le-v0.23.3.tar.gz"
       ],
@@ -1981,7 +1981,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-s390x",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-s390x-v0.23.3.tar.gz"
       ],
@@ -1989,7 +1989,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-386-v0.23.3.tar.gz"
       ],
@@ -1997,7 +1997,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2005,7 +2005,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2013,7 +2013,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2021,7 +2021,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-386-v0.23.3.tar.gz"
       ],
@@ -2029,7 +2029,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2037,7 +2037,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2045,7 +2045,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2053,7 +2053,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "solaris-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-solaris-amd64-v0.23.3.tar.gz"
       ],
@@ -2061,7 +2061,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "btcd-source-v0.23.3.tar.gz",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-source-v0.23.3.tar.gz"
       ],
@@ -2069,7 +2069,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "darwin-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-darwin-amd64-v0.23.3.tar.gz"
       ],
@@ -2077,7 +2077,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "dragonfly-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-dragonfly-amd64-v0.23.3.tar.gz"
       ],
@@ -2085,7 +2085,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-386-v0.23.3.tar.gz"
       ],
@@ -2093,7 +2093,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2101,7 +2101,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-arm-v0.23.3.tar.gz"
       ],
@@ -2109,7 +2109,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "i",
+      "arch": "illumos-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-illumos-amd64-v0.23.3.tar.gz"
       ],
@@ -2117,7 +2117,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-386-v0.23.3.tar.gz"
       ],
@@ -2125,7 +2125,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-amd64-v0.23.3.tar.gz"
       ],
@@ -2133,7 +2133,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-arm64-v0.23.3.tar.gz"
       ],
@@ -2141,7 +2141,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv6",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv6-v0.23.3.tar.gz"
       ],
@@ -2149,7 +2149,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv7",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv7-v0.23.3.tar.gz"
       ],
@@ -2157,7 +2157,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips-v0.23.3.tar.gz"
       ],
@@ -2165,7 +2165,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64-v0.23.3.tar.gz"
       ],
@@ -2173,7 +2173,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64le-v0.23.3.tar.gz"
       ],
@@ -2181,7 +2181,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mipsle",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mipsle-v0.23.3.tar.gz"
       ],
@@ -2189,7 +2189,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64-v0.23.3.tar.gz"
       ],
@@ -2197,7 +2197,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64le-v0.23.3.tar.gz"
       ],
@@ -2205,7 +2205,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-s390x",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-s390x-v0.23.3.tar.gz"
       ],
@@ -2213,7 +2213,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-386-v0.23.3.tar.gz"
       ],
@@ -2221,7 +2221,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2229,7 +2229,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2237,7 +2237,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2245,7 +2245,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-386-v0.23.3.tar.gz"
       ],
@@ -2253,7 +2253,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2261,7 +2261,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2269,7 +2269,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2277,7 +2277,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "solaris-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-solaris-amd64-v0.23.3.tar.gz"
       ],
@@ -2285,7 +2285,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "btcd-source-v0.23.3.tar.gz",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-source-v0.23.3.tar.gz"
       ],
@@ -2293,7 +2293,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "d",
+      "arch": "darwin-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-darwin-amd64-v0.24.0.tar.gz"
       ],
@@ -2301,7 +2301,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "d",
+      "arch": "dragonfly-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-dragonfly-amd64-v0.24.0.tar.gz"
       ],
@@ -2309,7 +2309,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "f",
+      "arch": "freebsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-freebsd-386-v0.24.0.tar.gz"
       ],
@@ -2317,7 +2317,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "f",
+      "arch": "freebsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-freebsd-amd64-v0.24.0.tar.gz"
       ],
@@ -2325,7 +2325,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "f",
+      "arch": "freebsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-freebsd-arm-v0.24.0.tar.gz"
       ],
@@ -2333,7 +2333,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "i",
+      "arch": "illumos-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-illumos-amd64-v0.24.0.tar.gz"
       ],
@@ -2341,7 +2341,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-386-v0.24.0.tar.gz"
       ],
@@ -2349,7 +2349,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-amd64-v0.24.0.tar.gz"
       ],
@@ -2357,7 +2357,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-arm64-v0.24.0.tar.gz"
       ],
@@ -2365,7 +2365,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-armv6",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-armv6-v0.24.0.tar.gz"
       ],
@@ -2373,7 +2373,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-armv7",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-armv7-v0.24.0.tar.gz"
       ],
@@ -2381,7 +2381,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-mips",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-mips-v0.24.0.tar.gz"
       ],
@@ -2389,7 +2389,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-mips64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-mips64-v0.24.0.tar.gz"
       ],
@@ -2397,7 +2397,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-mips64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-mips64le-v0.24.0.tar.gz"
       ],
@@ -2405,7 +2405,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-mipsle",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-mipsle-v0.24.0.tar.gz"
       ],
@@ -2413,7 +2413,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-ppc64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-ppc64-v0.24.0.tar.gz"
       ],
@@ -2421,7 +2421,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-ppc64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-ppc64le-v0.24.0.tar.gz"
       ],
@@ -2429,7 +2429,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "l",
+      "arch": "linux-s390x",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-linux-s390x-v0.24.0.tar.gz"
       ],
@@ -2437,7 +2437,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "n",
+      "arch": "netbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-netbsd-386-v0.24.0.tar.gz"
       ],
@@ -2445,7 +2445,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "n",
+      "arch": "netbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-netbsd-amd64-v0.24.0.tar.gz"
       ],
@@ -2453,7 +2453,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "n",
+      "arch": "netbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-netbsd-arm-v0.24.0.tar.gz"
       ],
@@ -2461,7 +2461,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "n",
+      "arch": "netbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-netbsd-arm64-v0.24.0.tar.gz"
       ],
@@ -2469,7 +2469,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "o",
+      "arch": "openbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-openbsd-386-v0.24.0.tar.gz"
       ],
@@ -2477,7 +2477,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "o",
+      "arch": "openbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-openbsd-amd64-v0.24.0.tar.gz"
       ],
@@ -2485,7 +2485,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "o",
+      "arch": "openbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-openbsd-arm-v0.24.0.tar.gz"
       ],
@@ -2493,7 +2493,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "o",
+      "arch": "openbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-openbsd-arm64-v0.24.0.tar.gz"
       ],
@@ -2501,7 +2501,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "s",
+      "arch": "solaris-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-solaris-amd64-v0.24.0.tar.gz"
       ],
@@ -2509,7 +2509,7 @@
     },
     {
       "version_number": "0.24.0",
-      "arch": "s",
+      "arch": "btcd-source-v0.24.0.tar.gz",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-source-v0.24.0.tar.gz"
       ],
@@ -2517,7 +2517,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "darwin-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-darwin-amd64-v0.23.3.tar.gz"
       ],
@@ -2525,7 +2525,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "d",
+      "arch": "dragonfly-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-dragonfly-amd64-v0.23.3.tar.gz"
       ],
@@ -2533,7 +2533,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-386-v0.23.3.tar.gz"
       ],
@@ -2541,7 +2541,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2549,7 +2549,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "f",
+      "arch": "freebsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-freebsd-arm-v0.23.3.tar.gz"
       ],
@@ -2557,7 +2557,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "i",
+      "arch": "illumos-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-illumos-amd64-v0.23.3.tar.gz"
       ],
@@ -2565,7 +2565,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-386-v0.23.3.tar.gz"
       ],
@@ -2573,7 +2573,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-amd64-v0.23.3.tar.gz"
       ],
@@ -2581,7 +2581,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-arm64-v0.23.3.tar.gz"
       ],
@@ -2589,7 +2589,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv6",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv6-v0.23.3.tar.gz"
       ],
@@ -2597,7 +2597,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-armv7",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-armv7-v0.23.3.tar.gz"
       ],
@@ -2605,7 +2605,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips-v0.23.3.tar.gz"
       ],
@@ -2613,7 +2613,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64-v0.23.3.tar.gz"
       ],
@@ -2621,7 +2621,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mips64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mips64le-v0.23.3.tar.gz"
       ],
@@ -2629,7 +2629,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-mipsle",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-mipsle-v0.23.3.tar.gz"
       ],
@@ -2637,7 +2637,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64-v0.23.3.tar.gz"
       ],
@@ -2645,7 +2645,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-ppc64le",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-ppc64le-v0.23.3.tar.gz"
       ],
@@ -2653,7 +2653,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "l",
+      "arch": "linux-s390x",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-linux-s390x-v0.23.3.tar.gz"
       ],
@@ -2661,7 +2661,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-386-v0.23.3.tar.gz"
       ],
@@ -2669,7 +2669,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2677,7 +2677,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2685,7 +2685,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "n",
+      "arch": "netbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-netbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2693,7 +2693,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-386",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-386-v0.23.3.tar.gz"
       ],
@@ -2701,7 +2701,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-amd64-v0.23.3.tar.gz"
       ],
@@ -2709,7 +2709,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm-v0.23.3.tar.gz"
       ],
@@ -2717,7 +2717,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "o",
+      "arch": "openbsd-arm64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-openbsd-arm64-v0.23.3.tar.gz"
       ],
@@ -2725,7 +2725,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "solaris-amd64",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-solaris-amd64-v0.23.3.tar.gz"
       ],
@@ -2733,7 +2733,7 @@
     },
     {
       "version_number": "0.23.3",
-      "arch": "s",
+      "arch": "btcd-source-v0.23.3.tar.gz",
       "sources": [
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-source-v0.23.3.tar.gz"
       ],
