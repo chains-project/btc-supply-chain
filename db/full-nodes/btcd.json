@@ -2738,6 +2738,254 @@
         "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-source-v0.23.3.tar.gz"
       ],
       "sha256": "96b001d15ca9fe5b8fec383fef923fc3392e05d3e4f4143a1258a826d15f259e"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "darwin-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-darwin-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "3cf3f5feeb1a35c5ef88b5c4a0625ce7e08b6e19311c6195f818b29f7e77087e"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "darwin-arm64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-darwin-arm64-v0.24.2.tar.gz"
+      ],
+      "sha256": "ece9c7084d22b198761ab007f37ff7748deaa2b489d1b6bb9880ed5f281b1d05"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "dragonfly-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-dragonfly-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "f71c582bac0187b3665b45cc467bf0480b337b8cef8210b0f13d58a566092e3e"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "freebsd-386",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-freebsd-386-v0.24.2.tar.gz"
+      ],
+      "sha256": "4c61824b6ec3a129588b0ff72d603e6a378c66ebf22525e2995fe65cf873420f"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "freebsd-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-freebsd-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "2a85d41f7731c5496ae631169f96ffe1ce0284ad3f01486962845a43528e4700"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "freebsd-arm",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-freebsd-arm-v0.24.2.tar.gz"
+      ],
+      "sha256": "197776d2a62a3fcfbdf8e7f4e65efaaaa21290ff9eb3e47954d45ea6031466f7"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "illumos-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-illumos-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "61b09b51ddd2b1fbf21e99915f318335a27077bf814ae206f3e5de0919565bf1"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-386",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-386-v0.24.2.tar.gz"
+      ],
+      "sha256": "17ef2ad49aafd78489d36e6a9256b50c03ea7f07840acd1e0ddb53f6d44644e1"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "f7ee4005a0f597d0486eb5cb17218eb51fcb9bed93bbb4d416a57f3975df69e5"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-arm64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-arm64-v0.24.2.tar.gz"
+      ],
+      "sha256": "4ccb175ad10f605bb27c53ee8d8fe4aa976588130a1eb8a990a5a6870c7584f6"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-armv6",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-armv6-v0.24.2.tar.gz"
+      ],
+      "sha256": "02474c98e328c92fa2a3c3fcba2ccf72b60a0e135100011067f18157266bfcc7"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-armv7",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-armv7-v0.24.2.tar.gz"
+      ],
+      "sha256": "c39917e786a2c6891855d60cf1049070c79343706a1d43808fddac4c5d36e6b2"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-mips",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-mips-v0.24.2.tar.gz"
+      ],
+      "sha256": "24becd90c5385fe6f8c4a6de89792f77d5a5458cc923d4bb9f3bfd9e356e3b96"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-mips64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-mips64-v0.24.2.tar.gz"
+      ],
+      "sha256": "4b9e0bd7db8c65fb64cd7f300ea75b7dd874cfb35b9ef97cad3d2f111f0e1602"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-mips64le",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-mips64le-v0.24.2.tar.gz"
+      ],
+      "sha256": "21e8b25fb438617d6af6574a92953fbd0eb42262449d6775db17cdb2a249e16c"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-mipsle",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-mipsle-v0.24.2.tar.gz"
+      ],
+      "sha256": "b1987424f211576d1237f0b055309f3183e187d6e36d8cc60ed8acacd1c43edb"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-ppc64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-ppc64-v0.24.2.tar.gz"
+      ],
+      "sha256": "de310160c49811f9c0315ff2a6c4a4fdf45a3adbd49323b5ec8e7417653700f5"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-ppc64le",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-ppc64le-v0.24.2.tar.gz"
+      ],
+      "sha256": "6c8970f58080521caa51e11f18077a33be20eec489a19f5c7ed40331a63db8c9"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "linux-s390x",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-linux-s390x-v0.24.2.tar.gz"
+      ],
+      "sha256": "2332c514788685c782199f2c4cac2985b28bfaee30b4eab277415e9ef560df59"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "netbsd-386",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-netbsd-386-v0.24.2.tar.gz"
+      ],
+      "sha256": "0417d22a701092ea664a42f2404f7c198b842983208e73427247c1b50926182a"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "netbsd-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-netbsd-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "1ddde63651c052f87997662b1517ecc517fe5043b85c00c02f33562e1ed40bae"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "netbsd-arm",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-netbsd-arm-v0.24.2.tar.gz"
+      ],
+      "sha256": "1a024b5541df04c6f14b4f1694551efbfe8f8d51c65fdbfd62d7adf2d4b71199"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "netbsd-arm64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-netbsd-arm64-v0.24.2.tar.gz"
+      ],
+      "sha256": "e1e193cbe55055a339653d9002299637d3f2a019837ed32babcf5ed9814caf19"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "openbsd-386",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-openbsd-386-v0.24.2.tar.gz"
+      ],
+      "sha256": "e5d6529eb7dcf9526a4692c3ebadffb368176f4fbfe6e7d836684ee602fda0db"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "openbsd-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-openbsd-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "0a29ab23840b5dbfc6cc2b50da298df56e4aa6590c77dd0cc4809e84d531b32f"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "openbsd-arm",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-openbsd-arm-v0.24.2.tar.gz"
+      ],
+      "sha256": "d953bbb0946d0de3f9888e76cab44a9f4be96006d4a7befff3fa1badef3df154"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "openbsd-arm64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-openbsd-arm64-v0.24.2.tar.gz"
+      ],
+      "sha256": "d7a6039ba9c2cdc934c2df88a3d98f77c91ec64e08fc8ad1c42ba8c6b238a49c"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "solaris-amd64",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-solaris-amd64-v0.24.2.tar.gz"
+      ],
+      "sha256": "e588588cee63d03b6f366cfdf7bcde4d5eeff66be5548c881dfdd04bb29666de"
+    },
+    {
+      "version_number": "0.24.2",
+      "arch": "source",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.2/btcd-source-v0.24.2.tar.gz"
+      ],
+      "sha256": "64e05dbcc91e6a7b4c1d69462cd18454936af8d5eedc95cf1b66698441733944"
+    },
+    {
+      "version_number": "0.24.0",
+      "arch": "source",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.24.0/btcd-source-v0.24.0.tar.gz"
+      ],
+      "sha256": "b4001124525328c1801f5cb577e89d6d50067c40f3215e190e48a30dcdee1640"
+    },
+    {
+      "version_number": "0.23.3",
+      "arch": "source",
+      "sources": [
+        "https://github.com/btcsuite/btcd/releases/download/v0.23.3/btcd-source-v0.23.3.tar.gz"
+      ],
+      "sha256": "96b001d15ca9fe5b8fec383fef923fc3392e05d3e4f4143a1258a826d15f259e"
     }
   ]
 }
